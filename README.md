@@ -85,3 +85,8 @@ This repository is an academic/internship simulation. Company details, demand vo
 
 **Hrudhai Prem Kumar Patwari**  
 SAP SCM Internship Project – Week 3
+
+
+## Six-Assessment Series
+
+This repository is part of the six-assessment SAP SCM internship series. Each assessment keeps the final Word report and supporting analysis under `docs/`, with editable process diagrams under `diagrams/`. See `docs/assessment-overview.md` for the standardized assessment map.
